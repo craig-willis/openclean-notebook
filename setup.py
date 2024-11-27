@@ -15,9 +15,9 @@ from setuptools import setup, find_packages
 
 install_requires = [
     'future',
-    'jsonschema==3.2.0',
+    'jsonschema',
     'openclean-core>=0.4.0',
-    'datamart-profiler==0.11'
+    'datamart-profiler'
 ]
 
 
