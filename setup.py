@@ -17,7 +17,7 @@ install_requires = [
     'future',
     'jsonschema==3.2.0',
     'openclean-core>=0.4.0',
-    'datamart-profiler==0.9'
+    'datamart-profiler==0.11'
 ]
 
 
